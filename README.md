@@ -98,17 +98,12 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Marmaris](https://github.com/search?q=location:Marmaris) | 21 |
 | [Çorlu](https://github.com/search?q=location:Çorlu) | 10 |
 | [Urla](https://github.com/search?q=location:Urla) | 9 |
-| [Pazar](https://github.com/search?q=location:Pazar) | 9 |
-| [Pendik](https://github.com/search?q=location:Pendik) | 9 |
-| [Pazar](https://github.com/search?q=location:Pazar) | 9 |
-| [Kula](https://github.com/search?q=location:Kula) | 7 |
 | [Fethiye](https://github.com/search?q=location:Fethiye) | 5 |
 | [Bandırma](https://github.com/search?q=location:Bandırma) | 5 |
 | [Akhisar](https://github.com/search?q=location:Akhisar) | 5 |
 | [Pamukkale](https://github.com/search?q=location:Pamukkale) | 4 |
 | [Yenimahalle](https://github.com/search?q=location:Yenimahalle) | 4 |
 | [Safranbolu](https://github.com/search?q=location:Safranbolu) | 4 |
-| [Kemah](https://github.com/search?q=location:Kemah) | 4 |
 | [Ereğli](https://github.com/search?q=location:Ereğli) | 4 |
 | [Didim](https://github.com/search?q=location:Didim) | 4 |
 | [Derbent](https://github.com/search?q=location:Derbent) | 3 |
@@ -116,8 +111,6 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Nilüfer](https://github.com/search?q=location:Nilüfer) | 3 |
 | [Belen](https://github.com/search?q=location:Belen) | 3 |
 | [Araç](https://github.com/search?q=location:Araç) | 3 |
-| [Beykoz](https://github.com/search?q=location:Beykoz) | 3 |
-| [Esenyurt](https://github.com/search?q=location:Esenyurt) | 3 |
 | [Darıca](https://github.com/search?q=location:Darıca) | 3 |
 | [Salihli](https://github.com/search?q=location:Salihli) | 3 |
 | [Zile](https://github.com/search?q=location:Zile) | 2 |
@@ -130,7 +123,6 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Marmara](https://github.com/search?q=location:Marmara) | 2 |
 | [Boyabat](https://github.com/search?q=location:Boyabat) | 2 |
 | [Eyüp](https://github.com/search?q=location:Eyüp) | 2 |
-| [Buca](https://github.com/search?q=location:Buca) | 2 |
 | [Sultangazi](https://github.com/search?q=location:Sultangazi) | 2 |
 | [Söke](https://github.com/search?q=location:Söke) | 2 |
 | [Bafra](https://github.com/search?q=location:Bafra) | 2 |
