@@ -22,7 +22,6 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Samsun](https://github.com/search?q=location:Samsun) | 139 |
 | [Denizli](https://github.com/search?q=location:Denizli) | 138 |
 | [Konya](https://github.com/search?q=location:Konya) | 131 |
-| [Van](https://github.com/search?q=location:Van) | 122 |
 | [Sakarya](https://github.com/search?q=location:Sakarya) | 118 |
 | [Eskişehir](https://github.com/search?q=location:Eskişehir) | 117 |
 | [Adana](https://github.com/search?q=location:Adana) | 98 |
@@ -72,6 +71,7 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Bilecik](https://github.com/search?q=location:Bilecik) | 4 |
 | [Gümüşhane](https://github.com/search?q=location:Gümüşhane) | 4 |
 | [Uşak](https://github.com/search?q=location:Uşak) | 4 |
+| [Van](https://github.com/search?q=location:Van,Turkey) | 4 |
 | [Kırklareli](https://github.com/search?q=location:Kırklareli) | 3 |
 | [Artvin](https://github.com/search?q=location:Artvin) | 3 |
 | [Kırıkkale](https://github.com/search?q=location:Kırıkkale) | 3 |
