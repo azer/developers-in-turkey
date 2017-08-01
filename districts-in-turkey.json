@@ -1,0 +1,3882 @@
+[
+	{
+		"district": "Abana",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Acıgöl",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Acıpayam",
+		"province": "Denizli"
+	},
+	{
+		"district": "Adaklı",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Adalar",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Adapazarı",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Adıyaman",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Adilcevaz",
+		"province": "Bitlis"
+	},
+	{
+		"district": "Afşin",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Afyonkarahisar",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Ağaçören",
+		"province": "Aksaray"
+	},
+	{
+		"district": "Ağın",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Ağlasun",
+		"province": "Burdur"
+	},
+	{
+		"district": "Ağlı",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Ağrı",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Ahırlı",
+		"province": "Konya"
+	},
+	{
+		"district": "Ahlat",
+		"province": "Bitlis"
+	},
+	{
+		"district": "Ahmetli",
+		"province": "Manisa"
+	},
+	{
+		"district": "Akçaabat",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Akçadağ",
+		"province": "Malatya"
+	},
+	{
+		"district": "Akçakale",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Akçakent",
+		"province": "Kırşehir"
+	},
+	{
+		"district": "Akçakoca",
+		"province": "Düzce"
+	},
+	{
+		"district": "Akdağmadeni",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Akdeniz",
+		"province": "Mersin"
+	},
+	{
+		"district": "Akhisar",
+		"province": "Manisa"
+	},
+	{
+		"district": "Akıncılar",
+		"province": "Sivas"
+	},
+	{
+		"district": "Akkışla",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Akkuş",
+		"province": "Ordu"
+	},
+	{
+		"district": "Akören",
+		"province": "Konya"
+	},
+	{
+		"district": "Akpınar",
+		"province": "Kırşehir"
+	},
+	{
+		"district": "Aksaray",
+		"province": "Aksaray"
+	},
+	{
+		"district": "Akseki",
+		"province": "Antalya"
+	},
+	{
+		"district": "Aksu",
+		"province": "Antalya"
+	},
+	{
+		"district": "Aksu",
+		"province": "Isparta"
+	},
+	{
+		"district": "Akşehir",
+		"province": "Konya"
+	},
+	{
+		"district": "Akyaka",
+		"province": "Kars"
+	},
+	{
+		"district": "Akyazı",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Akyurt",
+		"province": "Ankara"
+	},
+	{
+		"district": "Alaca",
+		"province": "Çorum"
+	},
+	{
+		"district": "Alacakaya",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Alaçam",
+		"province": "Samsun"
+	},
+	{
+		"district": "Aladağ",
+		"province": "Adana"
+	},
+	{
+		"district": "Alanya",
+		"province": "Antalya"
+	},
+	{
+		"district": "Alaplı",
+		"province": "Zonguldak"
+	},
+	{
+		"district": "Alaşehir",
+		"province": "Manisa"
+	},
+	{
+		"district": "Aliağa",
+		"province": "İzmir"
+	},
+	{
+		"district": "Almus",
+		"province": "Tokat"
+	},
+	{
+		"district": "Alpu",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Altıeylül",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Altındağ",
+		"province": "Ankara"
+	},
+	{
+		"district": "Altınekin",
+		"province": "Konya"
+	},
+	{
+		"district": "Altınordu",
+		"province": "Ordu"
+	},
+	{
+		"district": "Altınova",
+		"province": "Yalova"
+	},
+	{
+		"district": "Altınözü",
+		"province": "Hatay"
+	},
+	{
+		"district": "Altıntaş",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Altınyayla",
+		"province": "Burdur"
+	},
+	{
+		"district": "Altınyayla",
+		"province": "Sivas"
+	},
+	{
+		"district": "Altunhisar",
+		"province": "Niğde"
+	},
+	{
+		"district": "Alucra",
+		"province": "Giresun"
+	},
+	{
+		"district": "Amasra",
+		"province": "Bartın"
+	},
+	{
+		"district": "Amasya",
+		"province": "Amasya"
+	},
+	{
+		"district": "Anamur",
+		"province": "Mersin"
+	},
+	{
+		"district": "Andırın",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Antakya",
+		"province": "Hatay"
+	},
+	{
+		"district": "Araban",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Araç",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Araklı",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Aralık",
+		"province": "Iğdır"
+	},
+	{
+		"district": "Arapgir",
+		"province": "Malatya"
+	},
+	{
+		"district": "Ardahan",
+		"province": "Ardahan"
+	},
+	{
+		"district": "Ardanuç",
+		"province": "Artvin"
+	},
+	{
+		"district": "Ardeşen",
+		"province": "Rize"
+	},
+	{
+		"district": "Arguvan",
+		"province": "Malatya"
+	},
+	{
+		"district": "Arhavi",
+		"province": "Artvin"
+	},
+	{
+		"district": "Arıcak",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Arifiye",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Armutlu",
+		"province": "Yalova"
+	},
+	{
+		"district": "Arnavutköy",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Arpaçay",
+		"province": "Kars"
+	},
+	{
+		"district": "Arsin",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Arsuz",
+		"province": "Hatay"
+	},
+	{
+		"district": "Artova",
+		"province": "Tokat"
+	},
+	{
+		"district": "Artuklu",
+		"province": "Mardin"
+	},
+	{
+		"district": "Artvin",
+		"province": "Artvin"
+	},
+	{
+		"district": "Asarcık",
+		"province": "Samsun"
+	},
+	{
+		"district": "Aslanapa",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Aşkale",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Atabey",
+		"province": "Isparta"
+	},
+	{
+		"district": "Atakum",
+		"province": "Samsun"
+	},
+	{
+		"district": "Ataşehir",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Atkaracalar",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Avanos",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Avcılar",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Ayancık",
+		"province": "Sinop"
+	},
+	{
+		"district": "Ayaş",
+		"province": "Ankara"
+	},
+	{
+		"district": "Aybastı",
+		"province": "Ordu"
+	},
+	{
+		"district": "Aydıncık",
+		"province": "Mersin"
+	},
+	{
+		"district": "Aydıncık",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Aydıntepe",
+		"province": "Bayburt"
+	},
+	{
+		"district": "Ayrancı",
+		"province": "Karaman"
+	},
+	{
+		"district": "Ayvacık",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Ayvacık",
+		"province": "Samsun"
+	},
+	{
+		"district": "Ayvalık",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Azdavay",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Aziziye",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Babadağ",
+		"province": "Denizli"
+	},
+	{
+		"district": "Babaeski",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Bafra",
+		"province": "Samsun"
+	},
+	{
+		"district": "Bağcılar",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Bağlar",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Bahçe",
+		"province": "Osmaniye"
+	},
+	{
+		"district": "Bahçelievler",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Bahçesaray",
+		"province": "Van"
+	},
+	{
+		"district": "Bahşili",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Bakırköy",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Baklan",
+		"province": "Denizli"
+	},
+	{
+		"district": "Bala",
+		"province": "Ankara"
+	},
+	{
+		"district": "Balçova",
+		"province": "İzmir"
+	},
+	{
+		"district": "Balışeyh",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Balya",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Banaz",
+		"province": "Uşak"
+	},
+	{
+		"district": "Bandırma",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Bartın",
+		"province": "Bartın"
+	},
+	{
+		"district": "Baskil",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Başakşehir",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Başçiftlik",
+		"province": "Tokat"
+	},
+	{
+		"district": "Başiskele",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Başkale",
+		"province": "Van"
+	},
+	{
+		"district": "Başmakçı",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Başyayla",
+		"province": "Karaman"
+	},
+	{
+		"district": "Batman",
+		"province": "Batman"
+	},
+	{
+		"district": "Battalgazi",
+		"province": "Malatya"
+	},
+	{
+		"district": "Bayat",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Bayat",
+		"province": "Çorum"
+	},
+	{
+		"district": "Bayburt",
+		"province": "Bayburt"
+	},
+	{
+		"district": "Bayındır",
+		"province": "İzmir"
+	},
+	{
+		"district": "Baykan",
+		"province": "Siirt"
+	},
+	{
+		"district": "Bayraklı",
+		"province": "İzmir"
+	},
+	{
+		"district": "Bayramiç",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Bayramören",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Bayrampaşa",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Bekilli",
+		"province": "Denizli"
+	},
+	{
+		"district": "Belen",
+		"province": "Hatay"
+	},
+	{
+		"district": "Bergama",
+		"province": "İzmir"
+	},
+	{
+		"district": "Besni",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Beşikdüzü",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Beşiktaş",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Beşiri",
+		"province": "Batman"
+	},
+	{
+		"district": "Beyağaç",
+		"province": "Denizli"
+	},
+	{
+		"district": "Beydağ",
+		"province": "İzmir"
+	},
+	{
+		"district": "Beykoz",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Beylikdüzü",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Beylikova",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Beyoğlu",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Beypazarı",
+		"province": "Ankara"
+	},
+	{
+		"district": "Beyşehir",
+		"province": "Konya"
+	},
+	{
+		"district": "Beytüşşebap",
+		"province": "Şırnak"
+	},
+	{
+		"district": "Biga",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Bigadiç",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Bilecik",
+		"province": "Bilecik"
+	},
+	{
+		"district": "Bingöl",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Birecik",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Bismil",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Bitlis",
+		"province": "Bitlis"
+	},
+	{
+		"district": "Bodrum",
+		"province": "Muğla"
+	},
+	{
+		"district": "Boğazkale",
+		"province": "Çorum"
+	},
+	{
+		"district": "Boğazlıyan",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Bolu",
+		"province": "Bolu"
+	},
+	{
+		"district": "Bolvadin",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Bor",
+		"province": "Niğde"
+	},
+	{
+		"district": "Borçka",
+		"province": "Artvin"
+	},
+	{
+		"district": "Bornova",
+		"province": "İzmir"
+	},
+	{
+		"district": "Boyabat",
+		"province": "Sinop"
+	},
+	{
+		"district": "Bozcaada",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Bozdoğan",
+		"province": "Aydın"
+	},
+	{
+		"district": "Bozkır",
+		"province": "Konya"
+	},
+	{
+		"district": "Bozkurt",
+		"province": "Denizli"
+	},
+	{
+		"district": "Bozkurt",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Bozova",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Boztepe",
+		"province": "Kırşehir"
+	},
+	{
+		"district": "Bozüyük",
+		"province": "Bilecik"
+	},
+	{
+		"district": "Bozyazı",
+		"province": "Mersin"
+	},
+	{
+		"district": "Buca",
+		"province": "İzmir"
+	},
+	{
+		"district": "Bucak",
+		"province": "Burdur"
+	},
+	{
+		"district": "Buharkent",
+		"province": "Aydın"
+	},
+	{
+		"district": "Bulancak",
+		"province": "Giresun"
+	},
+	{
+		"district": "Bulanık",
+		"province": "Muş"
+	},
+	{
+		"district": "Buldan",
+		"province": "Denizli"
+	},
+	{
+		"district": "Burdur",
+		"province": "Burdur"
+	},
+	{
+		"district": "Burhaniye",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Bünyan",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Büyükçekmece",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Büyükorhan",
+		"province": "Bursa"
+	},
+	{
+		"district": "Canik",
+		"province": "Samsun"
+	},
+	{
+		"district": "Ceyhan",
+		"province": "Adana"
+	},
+	{
+		"district": "Ceylanpınar",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Cide",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Cihanbeyli",
+		"province": "Konya"
+	},
+	{
+		"district": "Cizre",
+		"province": "Şırnak"
+	},
+	{
+		"district": "Cumayeri",
+		"province": "Düzce"
+	},
+	{
+		"district": "Çağlayancerit",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Çal",
+		"province": "Denizli"
+	},
+	{
+		"district": "Çaldıran",
+		"province": "Van"
+	},
+	{
+		"district": "Çamardı",
+		"province": "Niğde"
+	},
+	{
+		"district": "Çamaş",
+		"province": "Ordu"
+	},
+	{
+		"district": "Çameli",
+		"province": "Denizli"
+	},
+	{
+		"district": "Çamlıdere",
+		"province": "Ankara"
+	},
+	{
+		"district": "Çamlıhemşin",
+		"province": "Rize"
+	},
+	{
+		"district": "Çamlıyayla",
+		"province": "Mersin"
+	},
+	{
+		"district": "Çamoluk",
+		"province": "Giresun"
+	},
+	{
+		"district": "Çan",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Çanakçı",
+		"province": "Giresun"
+	},
+	{
+		"district": "Çanakkale",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Çandır",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Çankaya",
+		"province": "Ankara"
+	},
+	{
+		"district": "Çankırı",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Çardak",
+		"province": "Denizli"
+	},
+	{
+		"district": "Çarşamba",
+		"province": "Samsun"
+	},
+	{
+		"district": "Çarşıbaşı",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Çat",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Çatak",
+		"province": "Van"
+	},
+	{
+		"district": "Çatalca",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Çatalpınar",
+		"province": "Ordu"
+	},
+	{
+		"district": "Çatalzeytin",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Çavdarhisar",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Çavdır",
+		"province": "Burdur"
+	},
+	{
+		"district": "Çay",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Çaybaşı",
+		"province": "Ordu"
+	},
+	{
+		"district": "Çaycuma",
+		"province": "Zonguldak"
+	},
+	{
+		"district": "Çayeli",
+		"province": "Rize"
+	},
+	{
+		"district": "Çayıralan",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Çayırlı",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Çayırova",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Çaykara",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Çekerek",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Çekmeköy",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Çelebi",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Çelikhan",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Çeltik",
+		"province": "Konya"
+	},
+	{
+		"district": "Çeltikçi",
+		"province": "Burdur"
+	},
+	{
+		"district": "Çemişgezek",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Çerkeş",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Çerkezköy",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Çermik",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Çeşme",
+		"province": "İzmir"
+	},
+	{
+		"district": "Çıldır",
+		"province": "Ardahan"
+	},
+	{
+		"district": "Çınar",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Çınarcık",
+		"province": "Yalova"
+	},
+	{
+		"district": "Çiçekdağı",
+		"province": "Kırşehir"
+	},
+	{
+		"district": "Çifteler",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Çiftlik",
+		"province": "Niğde"
+	},
+	{
+		"district": "Çiftlikköy",
+		"province": "Yalova"
+	},
+	{
+		"district": "Çiğli",
+		"province": "İzmir"
+	},
+	{
+		"district": "Çilimli",
+		"province": "Düzce"
+	},
+	{
+		"district": "Çine",
+		"province": "Aydın"
+	},
+	{
+		"district": "Çivril",
+		"province": "Denizli"
+	},
+	{
+		"district": "Çobanlar",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Çorlu",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Çorum",
+		"province": "Çorum"
+	},
+	{
+		"district": "Çubuk",
+		"province": "Ankara"
+	},
+	{
+		"district": "Çukurca",
+		"province": "Hakkari"
+	},
+	{
+		"district": "Çukurova",
+		"province": "Adana"
+	},
+	{
+		"district": "Çumra",
+		"province": "Konya"
+	},
+	{
+		"district": "Çüngüş",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Daday",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Dalaman",
+		"province": "Muğla"
+	},
+	{
+		"district": "Damal",
+		"province": "Ardahan"
+	},
+	{
+		"district": "Darende",
+		"province": "Malatya"
+	},
+	{
+		"district": "Dargeçit",
+		"province": "Mardin"
+	},
+	{
+		"district": "Darıca",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Datça",
+		"province": "Muğla"
+	},
+	{
+		"district": "Dazkırı",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Defne",
+		"province": "Hatay"
+	},
+	{
+		"district": "Delice",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Demirci",
+		"province": "Manisa"
+	},
+	{
+		"district": "Demirköy",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Demirözü",
+		"province": "Bayburt"
+	},
+	{
+		"district": "Demre",
+		"province": "Antalya"
+	},
+	{
+		"district": "Derbent",
+		"province": "Konya"
+	},
+	{
+		"district": "Derebucak",
+		"province": "Konya"
+	},
+	{
+		"district": "Dereli",
+		"province": "Giresun"
+	},
+	{
+		"district": "Derepazarı",
+		"province": "Rize"
+	},
+	{
+		"district": "Derik",
+		"province": "Mardin"
+	},
+	{
+		"district": "Derince",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Derinkuyu",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Dernekpazarı",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Develi",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Devrek",
+		"province": "Zonguldak"
+	},
+	{
+		"district": "Devrekani",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Dicle",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Didim",
+		"province": "Aydın"
+	},
+	{
+		"district": "Digor",
+		"province": "Kars"
+	},
+	{
+		"district": "Dikili",
+		"province": "İzmir"
+	},
+	{
+		"district": "Dikmen",
+		"province": "Sinop"
+	},
+	{
+		"district": "Dilovası",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Dinar",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Divriği",
+		"province": "Sivas"
+	},
+	{
+		"district": "Diyadin",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Dodurga",
+		"province": "Çorum"
+	},
+	{
+		"district": "Doğanhisar",
+		"province": "Konya"
+	},
+	{
+		"district": "Doğankent",
+		"province": "Giresun"
+	},
+	{
+		"district": "Doğanşar",
+		"province": "Sivas"
+	},
+	{
+		"district": "Doğanşehir",
+		"province": "Malatya"
+	},
+	{
+		"district": "Doğanyol",
+		"province": "Malatya"
+	},
+	{
+		"district": "Doğanyurt",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Doğubayazıt",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Domaniç",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Dörtdivan",
+		"province": "Bolu"
+	},
+	{
+		"district": "Dörtyol",
+		"province": "Hatay"
+	},
+	{
+		"district": "Döşemealtı",
+		"province": "Antalya"
+	},
+	{
+		"district": "Dulkadiroğlu",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Dumlupınar",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Durağan",
+		"province": "Sinop"
+	},
+	{
+		"district": "Dursunbey",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Düzce",
+		"province": "Düzce"
+	},
+	{
+		"district": "Düziçi",
+		"province": "Osmaniye"
+	},
+	{
+		"district": "Düzköy",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Eceabat",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Edirne",
+		"province": "Edirne"
+	},
+	{
+		"district": "Edremit",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Edremit",
+		"province": "Van"
+	},
+	{
+		"district": "Efeler",
+		"province": "Aydın"
+	},
+	{
+		"district": "Eflani",
+		"province": "Karabük"
+	},
+	{
+		"district": "Eğil",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Eğirdir",
+		"province": "Isparta"
+	},
+	{
+		"district": "Ekinözü",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Elazığ",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Elbeyli",
+		"province": "Kilis"
+	},
+	{
+		"district": "Elbistan",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Eldivan",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Eleşkirt",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Elmadağ",
+		"province": "Ankara"
+	},
+	{
+		"district": "Elmalı",
+		"province": "Antalya"
+	},
+	{
+		"district": "Emet",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Emirdağ",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Emirgazi",
+		"province": "Konya"
+	},
+	{
+		"district": "Enez",
+		"province": "Edirne"
+	},
+	{
+		"district": "Erbaa",
+		"province": "Tokat"
+	},
+	{
+		"district": "Erciş",
+		"province": "Van"
+	},
+	{
+		"district": "Erdek",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Erdemli",
+		"province": "Mersin"
+	},
+	{
+		"district": "Ereğli",
+		"province": "Konya"
+	},
+	{
+		"district": "Ereğli",
+		"province": "Zonguldak"
+	},
+	{
+		"district": "Erenler",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Erfelek",
+		"province": "Sinop"
+	},
+	{
+		"district": "Ergani",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Ergene",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Ermenek",
+		"province": "Karaman"
+	},
+	{
+		"district": "Eruh",
+		"province": "Siirt"
+	},
+	{
+		"district": "Erzin",
+		"province": "Hatay"
+	},
+	{
+		"district": "Erzincan",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Esenler",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Esenyurt",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Eskil",
+		"province": "Aksaray"
+	},
+	{
+		"district": "Eskipazar",
+		"province": "Karabük"
+	},
+	{
+		"district": "Espiye",
+		"province": "Giresun"
+	},
+	{
+		"district": "Eşme",
+		"province": "Uşak"
+	},
+	{
+		"district": "Etimesgut",
+		"province": "Ankara"
+	},
+	{
+		"district": "Evciler",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Evren",
+		"province": "Ankara"
+	},
+	{
+		"district": "Eynesil",
+		"province": "Giresun"
+	},
+	{
+		"district": "Eyüp",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Eyyübiye",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Ezine",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Fatih",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Fatsa",
+		"province": "Ordu"
+	},
+	{
+		"district": "Feke",
+		"province": "Adana"
+	},
+	{
+		"district": "Felahiye",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Ferizli",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Fethiye",
+		"province": "Muğla"
+	},
+	{
+		"district": "Fındıklı",
+		"province": "Rize"
+	},
+	{
+		"district": "Finike",
+		"province": "Antalya"
+	},
+	{
+		"district": "Foça",
+		"province": "İzmir"
+	},
+	{
+		"district": "Gaziemir",
+		"province": "İzmir"
+	},
+	{
+		"district": "Gaziosmanpaşa",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Gazipaşa",
+		"province": "Antalya"
+	},
+	{
+		"district": "Gebze",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Gediz",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Gelendost",
+		"province": "Isparta"
+	},
+	{
+		"district": "Gelibolu",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Gemerek",
+		"province": "Sivas"
+	},
+	{
+		"district": "Gemlik",
+		"province": "Bursa"
+	},
+	{
+		"district": "Genç",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Gercüş",
+		"province": "Batman"
+	},
+	{
+		"district": "Gerede",
+		"province": "Bolu"
+	},
+	{
+		"district": "Gerger",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Germencik",
+		"province": "Aydın"
+	},
+	{
+		"district": "Gerze",
+		"province": "Sinop"
+	},
+	{
+		"district": "Gevaş",
+		"province": "Van"
+	},
+	{
+		"district": "Geyve",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Giresun",
+		"province": "Giresun"
+	},
+	{
+		"district": "Gökçeada",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Gökçebey",
+		"province": "Zonguldak"
+	},
+	{
+		"district": "Göksun",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Gölbaşı",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Gölbaşı",
+		"province": "Ankara"
+	},
+	{
+		"district": "Gölcük",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Göle",
+		"province": "Ardahan"
+	},
+	{
+		"district": "Gölhisar",
+		"province": "Burdur"
+	},
+	{
+		"district": "Gölköy",
+		"province": "Ordu"
+	},
+	{
+		"district": "Gölmarmara",
+		"province": "Manisa"
+	},
+	{
+		"district": "Gölova",
+		"province": "Sivas"
+	},
+	{
+		"district": "Gölpazarı",
+		"province": "Bilecik"
+	},
+	{
+		"district": "Gölyaka",
+		"province": "Düzce"
+	},
+	{
+		"district": "Gömeç",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Gönen",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Gönen",
+		"province": "Isparta"
+	},
+	{
+		"district": "Gördes",
+		"province": "Manisa"
+	},
+	{
+		"district": "Görele",
+		"province": "Giresun"
+	},
+	{
+		"district": "Göynücek",
+		"province": "Amasya"
+	},
+	{
+		"district": "Göynük",
+		"province": "Bolu"
+	},
+	{
+		"district": "Güce",
+		"province": "Giresun"
+	},
+	{
+		"district": "Güçlükonak",
+		"province": "Şırnak"
+	},
+	{
+		"district": "Güdül",
+		"province": "Ankara"
+	},
+	{
+		"district": "Gülağaç",
+		"province": "Aksaray"
+	},
+	{
+		"district": "Gülnar",
+		"province": "Mersin"
+	},
+	{
+		"district": "Gülşehir",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Gülyalı",
+		"province": "Ordu"
+	},
+	{
+		"district": "Gümüşhacıköy",
+		"province": "Amasya"
+	},
+	{
+		"district": "Gümüşhane",
+		"province": "Gümüşhane"
+	},
+	{
+		"district": "Gümüşova",
+		"province": "Düzce"
+	},
+	{
+		"district": "Gündoğmuş",
+		"province": "Antalya"
+	},
+	{
+		"district": "Güney",
+		"province": "Denizli"
+	},
+	{
+		"district": "Güneysınır",
+		"province": "Konya"
+	},
+	{
+		"district": "Güneysu",
+		"province": "Rize"
+	},
+	{
+		"district": "Güngören",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Günyüzü",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Gürgentepe",
+		"province": "Ordu"
+	},
+	{
+		"district": "Güroymak",
+		"province": "Bitlis"
+	},
+	{
+		"district": "Gürpınar",
+		"province": "Van"
+	},
+	{
+		"district": "Gürsu",
+		"province": "Bursa"
+	},
+	{
+		"district": "Gürün",
+		"province": "Sivas"
+	},
+	{
+		"district": "Güzelbahçe",
+		"province": "İzmir"
+	},
+	{
+		"district": "Güzelyurt",
+		"province": "Aksaray"
+	},
+	{
+		"district": "Hacıbektaş",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Hacılar",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Hadim",
+		"province": "Konya"
+	},
+	{
+		"district": "Hafik",
+		"province": "Sivas"
+	},
+	{
+		"district": "Hakkâri",
+		"province": "Hakkari"
+	},
+	{
+		"district": "Halfeti",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Haliliye",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Halkapınar",
+		"province": "Konya"
+	},
+	{
+		"district": "Hamamözü",
+		"province": "Amasya"
+	},
+	{
+		"district": "Hamur",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Han",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Hanak",
+		"province": "Ardahan"
+	},
+	{
+		"district": "Hani",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Hanönü",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Harmancık",
+		"province": "Bursa"
+	},
+	{
+		"district": "Harran",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Hasanbeyli",
+		"province": "Osmaniye"
+	},
+	{
+		"district": "Hasankeyf",
+		"province": "Batman"
+	},
+	{
+		"district": "Hasköy",
+		"province": "Muş"
+	},
+	{
+		"district": "Hassa",
+		"province": "Hatay"
+	},
+	{
+		"district": "Havran",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Havsa",
+		"province": "Edirne"
+	},
+	{
+		"district": "Havza",
+		"province": "Samsun"
+	},
+	{
+		"district": "Haymana",
+		"province": "Ankara"
+	},
+	{
+		"district": "Hayrabolu",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Hayrat",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Hazro",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Hekimhan",
+		"province": "Malatya"
+	},
+	{
+		"district": "Hemşin",
+		"province": "Rize"
+	},
+	{
+		"district": "Hendek",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Hınıs",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Hilvan",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Hisarcık",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Hizan",
+		"province": "Bitlis"
+	},
+	{
+		"district": "Hocalar",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Honaz",
+		"province": "Denizli"
+	},
+	{
+		"district": "Hopa",
+		"province": "Artvin"
+	},
+	{
+		"district": "Horasan",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Hozat",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Hüyük",
+		"province": "Konya"
+	},
+	{
+		"district": "Iğdır",
+		"province": "Iğdır"
+	},
+	{
+		"district": "Ilgaz",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Ilgın",
+		"province": "Konya"
+	},
+	{
+		"district": "Isparta",
+		"province": "Isparta"
+	},
+	{
+		"district": "İbradı",
+		"province": "Antalya"
+	},
+	{
+		"district": "İdil",
+		"province": "Şırnak"
+	},
+	{
+		"district": "İhsangazi",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "İhsaniye",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "İkizce",
+		"province": "Ordu"
+	},
+	{
+		"district": "İkizdere",
+		"province": "Rize"
+	},
+	{
+		"district": "İliç",
+		"province": "Erzincan"
+	},
+	{
+		"district": "İlkadım",
+		"province": "Samsun"
+	},
+	{
+		"district": "İmamoğlu",
+		"province": "Adana"
+	},
+	{
+		"district": "İmranlı",
+		"province": "Sivas"
+	},
+	{
+		"district": "İncesu",
+		"province": "Kayseri"
+	},
+	{
+		"district": "İncirliova",
+		"province": "Aydın"
+	},
+	{
+		"district": "İnebolu",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "İnegöl",
+		"province": "Bursa"
+	},
+	{
+		"district": "İnhisar",
+		"province": "Bilecik"
+	},
+	{
+		"district": "İnönü",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "İpekyolu",
+		"province": "Van"
+	},
+	{
+		"district": "İpsala",
+		"province": "Edirne"
+	},
+	{
+		"district": "İscehisar",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "İskenderun",
+		"province": "Hatay"
+	},
+	{
+		"district": "İskilip",
+		"province": "Çorum"
+	},
+	{
+		"district": "İslahiye",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "İspir",
+		"province": "Erzurum"
+	},
+	{
+		"district": "İvrindi",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "İyidere",
+		"province": "Rize"
+	},
+	{
+		"district": "İzmit",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "İznik",
+		"province": "Bursa"
+	},
+	{
+		"district": "Kabadüz",
+		"province": "Ordu"
+	},
+	{
+		"district": "Kabataş",
+		"province": "Ordu"
+	},
+	{
+		"district": "Kadıköy",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Kadınhanı",
+		"province": "Konya"
+	},
+	{
+		"district": "Kadışehri",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Kadirli",
+		"province": "Osmaniye"
+	},
+	{
+		"district": "Kağıthane",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Kağızman",
+		"province": "Kars"
+	},
+	{
+		"district": "Kahta",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Kale",
+		"province": "Denizli"
+	},
+	{
+		"district": "Kale",
+		"province": "Malatya"
+	},
+	{
+		"district": "Kalecik",
+		"province": "Ankara"
+	},
+	{
+		"district": "Kalkandere",
+		"province": "Rize"
+	},
+	{
+		"district": "Kaman",
+		"province": "Kırşehir"
+	},
+	{
+		"district": "Kandıra",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Kangal",
+		"province": "Sivas"
+	},
+	{
+		"district": "Kapaklı",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Karabağlar",
+		"province": "İzmir"
+	},
+	{
+		"district": "Karaburun",
+		"province": "İzmir"
+	},
+	{
+		"district": "Karabük",
+		"province": "Karabük"
+	},
+	{
+		"district": "Karacabey",
+		"province": "Bursa"
+	},
+	{
+		"district": "Karacasu",
+		"province": "Aydın"
+	},
+	{
+		"district": "Karaçoban",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Karahallı",
+		"province": "Uşak"
+	},
+	{
+		"district": "Karaisalı",
+		"province": "Adana"
+	},
+	{
+		"district": "Karakeçili",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Karakoçan",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Karakoyunlu",
+		"province": "Iğdır"
+	},
+	{
+		"district": "Karaköprü",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Karaman",
+		"province": "Karaman"
+	},
+	{
+		"district": "Karamanlı",
+		"province": "Burdur"
+	},
+	{
+		"district": "Karamürsel",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Karapınar",
+		"province": "Konya"
+	},
+	{
+		"district": "Karapürçek",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Karasu",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Karataş",
+		"province": "Adana"
+	},
+	{
+		"district": "Karatay",
+		"province": "Konya"
+	},
+	{
+		"district": "Karayazı",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Karesi",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Kargı",
+		"province": "Çorum"
+	},
+	{
+		"district": "Karkamış",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Karlıova",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Karpuzlu",
+		"province": "Aydın"
+	},
+	{
+		"district": "Kars",
+		"province": "Kars"
+	},
+	{
+		"district": "Karşıyaka",
+		"province": "İzmir"
+	},
+	{
+		"district": "Kartal",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Kartepe",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Kastamonu",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Kaş",
+		"province": "Antalya"
+	},
+	{
+		"district": "Kavak",
+		"province": "Samsun"
+	},
+	{
+		"district": "Kavaklıdere",
+		"province": "Muğla"
+	},
+	{
+		"district": "Kayapınar",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Kaynarca",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Kaynaşlı",
+		"province": "Düzce"
+	},
+	{
+		"district": "Kazan",
+		"province": "Ankara"
+	},
+	{
+		"district": "Kazımkarabekir",
+		"province": "Karaman"
+	},
+	{
+		"district": "Keban",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Keçiborlu",
+		"province": "Isparta"
+	},
+	{
+		"district": "Keçiören",
+		"province": "Ankara"
+	},
+	{
+		"district": "Keles",
+		"province": "Bursa"
+	},
+	{
+		"district": "Kelkit",
+		"province": "Gümüşhane"
+	},
+	{
+		"district": "Kemah",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Kemaliye",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Kemalpaşa",
+		"province": "İzmir"
+	},
+	{
+		"district": "Kemer",
+		"province": "Antalya"
+	},
+	{
+		"district": "Kemer",
+		"province": "Burdur"
+	},
+	{
+		"district": "Kepez",
+		"province": "Antalya"
+	},
+	{
+		"district": "Kepsut",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Keskin",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Kestel",
+		"province": "Bursa"
+	},
+	{
+		"district": "Keşan",
+		"province": "Edirne"
+	},
+	{
+		"district": "Keşap",
+		"province": "Giresun"
+	},
+	{
+		"district": "Kıbrıscık",
+		"province": "Bolu"
+	},
+	{
+		"district": "Kınık",
+		"province": "İzmir"
+	},
+	{
+		"district": "Kırıkhan",
+		"province": "Hatay"
+	},
+	{
+		"district": "Kırıkkale",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Kırkağaç",
+		"province": "Manisa"
+	},
+	{
+		"district": "Kırklareli",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Kırşehir",
+		"province": "Kırşehir"
+	},
+	{
+		"district": "Kızılcahamam",
+		"province": "Ankara"
+	},
+	{
+		"district": "Kızılırmak",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Kızılören",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Kızıltepe",
+		"province": "Mardin"
+	},
+	{
+		"district": "Kiğı",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Kilimli",
+		"province": "Zonguldak"
+	},
+	{
+		"district": "Kilis",
+		"province": "Kilis"
+	},
+	{
+		"district": "Kiraz",
+		"province": "İzmir"
+	},
+	{
+		"district": "Kocaali",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Kocaköy",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Kocasinan",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Koçarlı",
+		"province": "Aydın"
+	},
+	{
+		"district": "Kofçaz",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Konak",
+		"province": "İzmir"
+	},
+	{
+		"district": "Konyaaltı",
+		"province": "Antalya"
+	},
+	{
+		"district": "Korgan",
+		"province": "Ordu"
+	},
+	{
+		"district": "Korgun",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Korkut",
+		"province": "Muş"
+	},
+	{
+		"district": "Korkuteli",
+		"province": "Antalya"
+	},
+	{
+		"district": "Kovancılar",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Koyulhisar",
+		"province": "Sivas"
+	},
+	{
+		"district": "Kozaklı",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Kozan",
+		"province": "Adana"
+	},
+	{
+		"district": "Kozlu",
+		"province": "Zonguldak"
+	},
+	{
+		"district": "Kozluk",
+		"province": "Batman"
+	},
+	{
+		"district": "Köprübaşı",
+		"province": "Manisa"
+	},
+	{
+		"district": "Köprübaşı",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Köprüköy",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Körfez",
+		"province": "Kocaeli"
+	},
+	{
+		"district": "Köse",
+		"province": "Gümüşhane"
+	},
+	{
+		"district": "Köşk",
+		"province": "Aydın"
+	},
+	{
+		"district": "Köyceğiz",
+		"province": "Muğla"
+	},
+	{
+		"district": "Kula",
+		"province": "Manisa"
+	},
+	{
+		"district": "Kulp",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Kulu",
+		"province": "Konya"
+	},
+	{
+		"district": "Kuluncak",
+		"province": "Malatya"
+	},
+	{
+		"district": "Kumlu",
+		"province": "Hatay"
+	},
+	{
+		"district": "Kumluca",
+		"province": "Antalya"
+	},
+	{
+		"district": "Kumru",
+		"province": "Ordu"
+	},
+	{
+		"district": "Kurşunlu",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Kurtalan",
+		"province": "Siirt"
+	},
+	{
+		"district": "Kurucaşile",
+		"province": "Bartın"
+	},
+	{
+		"district": "Kuşadası",
+		"province": "Aydın"
+	},
+	{
+		"district": "Kuyucak",
+		"province": "Aydın"
+	},
+	{
+		"district": "Küçükçekmece",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Küre",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Kürtün",
+		"province": "Gümüşhane"
+	},
+	{
+		"district": "Kütahya",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Laçin",
+		"province": "Çorum"
+	},
+	{
+		"district": "Ladik",
+		"province": "Samsun"
+	},
+	{
+		"district": "Lalapaşa",
+		"province": "Edirne"
+	},
+	{
+		"district": "Lapseki",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Lice",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Lüleburgaz",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Maçka",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Maden",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Mahmudiye",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Malazgirt",
+		"province": "Muş"
+	},
+	{
+		"district": "Malkara",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Maltepe",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Mamak",
+		"province": "Ankara"
+	},
+	{
+		"district": "Manavgat",
+		"province": "Antalya"
+	},
+	{
+		"district": "Manyas",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Marmara",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Marmaraereğlisi",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Marmaris",
+		"province": "Muğla"
+	},
+	{
+		"district": "Mazgirt",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Mazıdağı",
+		"province": "Mardin"
+	},
+	{
+		"district": "Mecitözü",
+		"province": "Çorum"
+	},
+	{
+		"district": "Melikgazi",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Menderes",
+		"province": "İzmir"
+	},
+	{
+		"district": "Menemen",
+		"province": "İzmir"
+	},
+	{
+		"district": "Mengen",
+		"province": "Bolu"
+	},
+	{
+		"district": "Menteşe",
+		"province": "Muğla"
+	},
+	{
+		"district": "Meram",
+		"province": "Konya"
+	},
+	{
+		"district": "Meriç",
+		"province": "Edirne"
+	},
+	{
+		"district": "Merkezefendi",
+		"province": "Denizli"
+	},
+	{
+		"district": "Merzifon",
+		"province": "Amasya"
+	},
+	{
+		"district": "Mesudiye",
+		"province": "Ordu"
+	},
+	{
+		"district": "Mezitli",
+		"province": "Mersin"
+	},
+	{
+		"district": "Midyat",
+		"province": "Mardin"
+	},
+	{
+		"district": "Mihalgazi",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Mihalıççık",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Milas",
+		"province": "Muğla"
+	},
+	{
+		"district": "Mucur",
+		"province": "Kırşehir"
+	},
+	{
+		"district": "Mudanya",
+		"province": "Bursa"
+	},
+	{
+		"district": "Mudurnu",
+		"province": "Bolu"
+	},
+	{
+		"district": "Muradiye",
+		"province": "Van"
+	},
+	{
+		"district": "Muratlı",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Muratpaşa",
+		"province": "Antalya"
+	},
+	{
+		"district": "Murgul",
+		"province": "Artvin"
+	},
+	{
+		"district": "Musabeyli",
+		"province": "Kilis"
+	},
+	{
+		"district": "Mustafakemalpaşa",
+		"province": "Bursa"
+	},
+	{
+		"district": "Muş",
+		"province": "Muş"
+	},
+	{
+		"district": "Mut",
+		"province": "Mersin"
+	},
+	{
+		"district": "Mutki",
+		"province": "Bitlis"
+	},
+	{
+		"district": "Nallıhan",
+		"province": "Ankara"
+	},
+	{
+		"district": "Narlıdere",
+		"province": "İzmir"
+	},
+	{
+		"district": "Narman",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Nazımiye",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Nazilli",
+		"province": "Aydın"
+	},
+	{
+		"district": "Nevşehir",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Niğde",
+		"province": "Niğde"
+	},
+	{
+		"district": "Niksar",
+		"province": "Tokat"
+	},
+	{
+		"district": "Nilüfer",
+		"province": "Bursa"
+	},
+	{
+		"district": "Nizip",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Nurdağı",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Nurhak",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Nusaybin",
+		"province": "Mardin"
+	},
+	{
+		"district": "Odunpazarı",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Of",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Oğuzeli",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Oğuzlar",
+		"province": "Çorum"
+	},
+	{
+		"district": "Oltu",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Olur",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Ondokuzmayıs",
+		"province": "Samsun"
+	},
+	{
+		"district": "Onikişubat",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Orhaneli",
+		"province": "Bursa"
+	},
+	{
+		"district": "Orhangazi",
+		"province": "Bursa"
+	},
+	{
+		"district": "Orta",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Ortaca",
+		"province": "Muğla"
+	},
+	{
+		"district": "Ortahisar",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Ortaköy",
+		"province": "Aksaray"
+	},
+	{
+		"district": "Ortaköy",
+		"province": "Çorum"
+	},
+	{
+		"district": "Osmancık",
+		"province": "Çorum"
+	},
+	{
+		"district": "Osmaneli",
+		"province": "Bilecik"
+	},
+	{
+		"district": "Osmangazi",
+		"province": "Bursa"
+	},
+	{
+		"district": "Osmaniye",
+		"province": "Osmaniye"
+	},
+	{
+		"district": "Otlukbeli",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Ovacık",
+		"province": "Karabük"
+	},
+	{
+		"district": "Ovacık",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Ödemiş",
+		"province": "İzmir"
+	},
+	{
+		"district": "Ömerli",
+		"province": "Mardin"
+	},
+	{
+		"district": "Özalp",
+		"province": "Van"
+	},
+	{
+		"district": "Özvatan",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Palandöken",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Palu",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Pamukkale",
+		"province": "Denizli"
+	},
+	{
+		"district": "Pamukova",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Pasinler",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Patnos",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Payas",
+		"province": "Hatay"
+	},
+	{
+		"district": "Pazar",
+		"province": "Rize"
+	},
+	{
+		"district": "Pazar",
+		"province": "Tokat"
+	},
+	{
+		"district": "Pazarcık",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Pazarlar",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Pazaryeri",
+		"province": "Bilecik"
+	},
+	{
+		"district": "Pazaryolu",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Pehlivanköy",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Pendik",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Perşembe",
+		"province": "Ordu"
+	},
+	{
+		"district": "Pertek",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Pervari",
+		"province": "Siirt"
+	},
+	{
+		"district": "Pınarbaşı",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Pınarbaşı",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Pınarhisar",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Piraziz",
+		"province": "Giresun"
+	},
+	{
+		"district": "Polateli",
+		"province": "Kilis"
+	},
+	{
+		"district": "Polatlı",
+		"province": "Ankara"
+	},
+	{
+		"district": "Posof",
+		"province": "Ardahan"
+	},
+	{
+		"district": "Pozantı",
+		"province": "Adana"
+	},
+	{
+		"district": "Pursaklar",
+		"province": "Ankara"
+	},
+	{
+		"district": "Pülümür",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Pütürge",
+		"province": "Malatya"
+	},
+	{
+		"district": "Refahiye",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Reşadiye",
+		"province": "Tokat"
+	},
+	{
+		"district": "Reyhanlı",
+		"province": "Hatay"
+	},
+	{
+		"district": "Rize",
+		"province": "Rize"
+	},
+	{
+		"district": "Safranbolu",
+		"province": "Karabük"
+	},
+	{
+		"district": "Saimbeyli",
+		"province": "Adana"
+	},
+	{
+		"district": "Salıpazarı",
+		"province": "Samsun"
+	},
+	{
+		"district": "Salihli",
+		"province": "Manisa"
+	},
+	{
+		"district": "Samandağ",
+		"province": "Hatay"
+	},
+	{
+		"district": "Samsat",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Sancaktepe",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Sandıklı",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Sapanca",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Saray",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Saray",
+		"province": "Van"
+	},
+	{
+		"district": "Saraydüzü",
+		"province": "Sinop"
+	},
+	{
+		"district": "Saraykent",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Sarayköy",
+		"province": "Denizli"
+	},
+	{
+		"district": "Sarayönü",
+		"province": "Konya"
+	},
+	{
+		"district": "Sarıcakaya",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Sarıçam",
+		"province": "Adana"
+	},
+	{
+		"district": "Sarıgöl",
+		"province": "Manisa"
+	},
+	{
+		"district": "Sarıkamış",
+		"province": "Kars"
+	},
+	{
+		"district": "Sarıkaya",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Sarıoğlan",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Sarıveliler",
+		"province": "Karaman"
+	},
+	{
+		"district": "Sarıyahşi",
+		"province": "Aksaray"
+	},
+	{
+		"district": "Sarıyer",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Sarız",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Saruhanlı",
+		"province": "Manisa"
+	},
+	{
+		"district": "Sason",
+		"province": "Batman"
+	},
+	{
+		"district": "Savaştepe",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Savur",
+		"province": "Mardin"
+	},
+	{
+		"district": "Seben",
+		"province": "Bolu"
+	},
+	{
+		"district": "Seferihisar",
+		"province": "İzmir"
+	},
+	{
+		"district": "Selçuk",
+		"province": "İzmir"
+	},
+	{
+		"district": "Selçuklu",
+		"province": "Konya"
+	},
+	{
+		"district": "Selendi",
+		"province": "Manisa"
+	},
+	{
+		"district": "Selim",
+		"province": "Kars"
+	},
+	{
+		"district": "Senirkent",
+		"province": "Isparta"
+	},
+	{
+		"district": "Serdivan",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Serik",
+		"province": "Antalya"
+	},
+	{
+		"district": "Serinhisar",
+		"province": "Denizli"
+	},
+	{
+		"district": "Seydikemer",
+		"province": "Muğla"
+	},
+	{
+		"district": "Seydiler",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Seydişehir",
+		"province": "Konya"
+	},
+	{
+		"district": "Seyhan",
+		"province": "Adana"
+	},
+	{
+		"district": "Seyitgazi",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Sındırgı",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Siirt",
+		"province": "Siirt"
+	},
+	{
+		"district": "Silifke",
+		"province": "Mersin"
+	},
+	{
+		"district": "Silivri",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Silopi",
+		"province": "Şırnak"
+	},
+	{
+		"district": "Silvan",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Simav",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Sinanpaşa",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Sincan",
+		"province": "Ankara"
+	},
+	{
+		"district": "Sincik",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Sinop",
+		"province": "Sinop"
+	},
+	{
+		"district": "Sivas",
+		"province": "Sivas"
+	},
+	{
+		"district": "Sivaslı",
+		"province": "Uşak"
+	},
+	{
+		"district": "Siverek",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Sivrice",
+		"province": "Elazığ"
+	},
+	{
+		"district": "Sivrihisar",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Solhan",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Soma",
+		"province": "Manisa"
+	},
+	{
+		"district": "Sorgun",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Söğüt",
+		"province": "Bilecik"
+	},
+	{
+		"district": "Söğütlü",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Söke",
+		"province": "Aydın"
+	},
+	{
+		"district": "Sulakyurt",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Sultanbeyli",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Sultandağı",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Sultangazi",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Sultanhisar",
+		"province": "Aydın"
+	},
+	{
+		"district": "Suluova",
+		"province": "Amasya"
+	},
+	{
+		"district": "Sulusaray",
+		"province": "Tokat"
+	},
+	{
+		"district": "Sumbas",
+		"province": "Osmaniye"
+	},
+	{
+		"district": "Sungurlu",
+		"province": "Çorum"
+	},
+	{
+		"district": "Sur",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Suruç",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Susurluk",
+		"province": "Balıkesir"
+	},
+	{
+		"district": "Susuz",
+		"province": "Kars"
+	},
+	{
+		"district": "Suşehri",
+		"province": "Sivas"
+	},
+	{
+		"district": "Süleymanpaşa",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Süloğlu",
+		"province": "Edirne"
+	},
+	{
+		"district": "Sürmene",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Sütçüler",
+		"province": "Isparta"
+	},
+	{
+		"district": "Şabanözü",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Şahinbey",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Şalpazarı",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Şaphane",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Şarkışla",
+		"province": "Sivas"
+	},
+	{
+		"district": "Şarkikaraağaç",
+		"province": "Isparta"
+	},
+	{
+		"district": "Şarköy",
+		"province": "Tekirdağ"
+	},
+	{
+		"district": "Şavşat",
+		"province": "Artvin"
+	},
+	{
+		"district": "Şebinkarahisar",
+		"province": "Giresun"
+	},
+	{
+		"district": "Şefaatli",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Şehitkamil",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Şehzadeler",
+		"province": "Manisa"
+	},
+	{
+		"district": "Şemdinli",
+		"province": "Hakkari"
+	},
+	{
+		"district": "Şenkaya",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Şenpazar",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Şereflikoçhisar",
+		"province": "Ankara"
+	},
+	{
+		"district": "Şırnak",
+		"province": "Şırnak"
+	},
+	{
+		"district": "Şile",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Şiran",
+		"province": "Gümüşhane"
+	},
+	{
+		"district": "Şirvan",
+		"province": "Siirt"
+	},
+	{
+		"district": "Şişli",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Şuhut",
+		"province": "Afyonkarahisar"
+	},
+	{
+		"district": "Talas",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Taraklı",
+		"province": "Sakarya"
+	},
+	{
+		"district": "Tarsus",
+		"province": "Mersin"
+	},
+	{
+		"district": "Taşkent",
+		"province": "Konya"
+	},
+	{
+		"district": "Taşköprü",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Taşlıçay",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Taşova",
+		"province": "Amasya"
+	},
+	{
+		"district": "Tatvan",
+		"province": "Bitlis"
+	},
+	{
+		"district": "Tavas",
+		"province": "Denizli"
+	},
+	{
+		"district": "Tavşanlı",
+		"province": "Kütahya"
+	},
+	{
+		"district": "Tefenni",
+		"province": "Burdur"
+	},
+	{
+		"district": "Tekkeköy",
+		"province": "Samsun"
+	},
+	{
+		"district": "Tekman",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Tepebaşı",
+		"province": "Eskişehir"
+	},
+	{
+		"district": "Tercan",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Termal",
+		"province": "Yalova"
+	},
+	{
+		"district": "Terme",
+		"province": "Samsun"
+	},
+	{
+		"district": "Tillo",
+		"province": "Siirt"
+	},
+	{
+		"district": "Tire",
+		"province": "İzmir"
+	},
+	{
+		"district": "Tirebolu",
+		"province": "Giresun"
+	},
+	{
+		"district": "Tokat",
+		"province": "Tokat"
+	},
+	{
+		"district": "Tomarza",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Tonya",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Toprakkale",
+		"province": "Osmaniye"
+	},
+	{
+		"district": "Torbalı",
+		"province": "İzmir"
+	},
+	{
+		"district": "Toroslar",
+		"province": "Mersin"
+	},
+	{
+		"district": "Tortum",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Torul",
+		"province": "Gümüşhane"
+	},
+	{
+		"district": "Tosya",
+		"province": "Kastamonu"
+	},
+	{
+		"district": "Tufanbeyli",
+		"province": "Adana"
+	},
+	{
+		"district": "Tunceli",
+		"province": "Tunceli"
+	},
+	{
+		"district": "Turgutlu",
+		"province": "Manisa"
+	},
+	{
+		"district": "Turhal",
+		"province": "Tokat"
+	},
+	{
+		"district": "Tuşba",
+		"province": "Van"
+	},
+	{
+		"district": "Tut",
+		"province": "Adıyaman"
+	},
+	{
+		"district": "Tutak",
+		"province": "Ağrı"
+	},
+	{
+		"district": "Tuzla",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Tuzluca",
+		"province": "Iğdır"
+	},
+	{
+		"district": "Tuzlukçu",
+		"province": "Konya"
+	},
+	{
+		"district": "Türkeli",
+		"province": "Sinop"
+	},
+	{
+		"district": "Türkoğlu",
+		"province": "Kahramanmaraş"
+	},
+	{
+		"district": "Uğurludağ",
+		"province": "Çorum"
+	},
+	{
+		"district": "Ula",
+		"province": "Muğla"
+	},
+	{
+		"district": "Ulaş",
+		"province": "Sivas"
+	},
+	{
+		"district": "Ulubey",
+		"province": "Ordu"
+	},
+	{
+		"district": "Ulubey",
+		"province": "Uşak"
+	},
+	{
+		"district": "Uluborlu",
+		"province": "Isparta"
+	},
+	{
+		"district": "Uludere",
+		"province": "Şırnak"
+	},
+	{
+		"district": "Ulukışla",
+		"province": "Niğde"
+	},
+	{
+		"district": "Ulus",
+		"province": "Bartın"
+	},
+	{
+		"district": "Urla",
+		"province": "İzmir"
+	},
+	{
+		"district": "Uşak",
+		"province": "Uşak"
+	},
+	{
+		"district": "Uzundere",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Uzunköprü",
+		"province": "Edirne"
+	},
+	{
+		"district": "Ümraniye",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Ünye",
+		"province": "Ordu"
+	},
+	{
+		"district": "Ürgüp",
+		"province": "Nevşehir"
+	},
+	{
+		"district": "Üsküdar",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Üzümlü",
+		"province": "Erzincan"
+	},
+	{
+		"district": "Vakfıkebir",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Varto",
+		"province": "Muş"
+	},
+	{
+		"district": "Vezirköprü",
+		"province": "Samsun"
+	},
+	{
+		"district": "Viranşehir",
+		"province": "Şanlıurfa"
+	},
+	{
+		"district": "Vize",
+		"province": "Kırklareli"
+	},
+	{
+		"district": "Yağlıdere",
+		"province": "Giresun"
+	},
+	{
+		"district": "Yahşihan",
+		"province": "Kırıkkale"
+	},
+	{
+		"district": "Yahyalı",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Yakakent",
+		"province": "Samsun"
+	},
+	{
+		"district": "Yakutiye",
+		"province": "Erzurum"
+	},
+	{
+		"district": "Yalıhüyük",
+		"province": "Konya"
+	},
+	{
+		"district": "Yalova",
+		"province": "Yalova"
+	},
+	{
+		"district": "Yalvaç",
+		"province": "Isparta"
+	},
+	{
+		"district": "Yapraklı",
+		"province": "Çankırı"
+	},
+	{
+		"district": "Yatağan",
+		"province": "Muğla"
+	},
+	{
+		"district": "Yavuzeli",
+		"province": "Gaziantep"
+	},
+	{
+		"district": "Yayladağı",
+		"province": "Hatay"
+	},
+	{
+		"district": "Yayladere",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Yazıhan",
+		"province": "Malatya"
+	},
+	{
+		"district": "Yedisu",
+		"province": "Bingöl"
+	},
+	{
+		"district": "Yenice",
+		"province": "Çanakkale"
+	},
+	{
+		"district": "Yenice",
+		"province": "Karabük"
+	},
+	{
+		"district": "Yeniçağa",
+		"province": "Bolu"
+	},
+	{
+		"district": "Yenifakılı",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Yenimahalle",
+		"province": "Ankara"
+	},
+	{
+		"district": "Yenipazar",
+		"province": "Aydın"
+	},
+	{
+		"district": "Yenipazar",
+		"province": "Bilecik"
+	},
+	{
+		"district": "Yenişarbademli",
+		"province": "Isparta"
+	},
+	{
+		"district": "Yenişehir",
+		"province": "Bursa"
+	},
+	{
+		"district": "Yenişehir",
+		"province": "Diyarbakır"
+	},
+	{
+		"district": "Yenişehir",
+		"province": "Mersin"
+	},
+	{
+		"district": "Yerköy",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Yeşilhisar",
+		"province": "Kayseri"
+	},
+	{
+		"district": "Yeşilli",
+		"province": "Mardin"
+	},
+	{
+		"district": "Yeşilova",
+		"province": "Burdur"
+	},
+	{
+		"district": "Yeşilyurt",
+		"province": "Malatya"
+	},
+	{
+		"district": "Yeşilyurt",
+		"province": "Tokat"
+	},
+	{
+		"district": "Yığılca",
+		"province": "Düzce"
+	},
+	{
+		"district": "Yıldırım",
+		"province": "Bursa"
+	},
+	{
+		"district": "Yıldızeli",
+		"province": "Sivas"
+	},
+	{
+		"district": "Yomra",
+		"province": "Trabzon"
+	},
+	{
+		"district": "Yozgat",
+		"province": "Yozgat"
+	},
+	{
+		"district": "Yumurtalık",
+		"province": "Adana"
+	},
+	{
+		"district": "Yunak",
+		"province": "Konya"
+	},
+	{
+		"district": "Yunusemre",
+		"province": "Manisa"
+	},
+	{
+		"district": "Yusufeli",
+		"province": "Artvin"
+	},
+	{
+		"district": "Yüksekova",
+		"province": "Hakkari"
+	},
+	{
+		"district": "Yüreğir",
+		"province": "Adana"
+	},
+	{
+		"district": "Zara",
+		"province": "Sivas"
+	},
+	{
+		"district": "Zeytinburnu",
+		"province": "İstanbul"
+	},
+	{
+		"district": "Zile",
+		"province": "Tokat"
+	},
+	{
+		"district": "Zonguldak",
+		"province": "Zonguldak"
+	}
+]

@@ -1,0 +1,7 @@
+{
+  "name": "developers-in-turkey",
+  "dependencies": {
+    "limited-parallel-loop": "azer/limited-parallel-loop",
+    "simple-get": "^2.6.0"
+  }
+}
