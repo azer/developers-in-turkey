@@ -1,4 +1,5 @@
 const provinces = require("./provinces-in-turkey")
+const districts = require("./districts-in-turkey")
 const loop = require("limited-parallel-loop")
 const get = require('simple-get')
 const fs = require("fs")
@@ -8,7 +9,7 @@ let cache
 const PARALLEL_LIMIT = process.env.PARALLEL_LIMIT || 1 // Requests at a time
 
 if (require.main === module) {
-  pull(function (err, results) {
+  pull(provinces, function (err, results) {
     if (err) throw err
     console.log(formatAsTable(results))
   })
@@ -28,28 +29,32 @@ function formatAsTableRow (row) {
   return `| [${row.city}](https://gist.github.com/search?q=location:${row.city}) | ${row.count} |`
 }
 
-function pull (callback) {
+function pull (cities, callback) {
   const results = []
 
   log("Starting...")
 
-  loop(provinces.length, PARALLEL_LIMIT, each, err => {
+  // cities = cities.filter(city => city.district !== city.province)
+
+  loop(cities.length, PARALLEL_LIMIT, each, err => {
     if (err) return callback(err)
     save(results)
     callback(undefined, results.sort(sortByCount))
   })
 
   function each (done, index) {
-    getGithubUserCount(provinces[index], (err, count) => {
+    const location = cities[index].district || cities[index]
+
+    getGithubUserCount(location, (err, count) => {
       if (err) {
-        save(results)
+        save()
         return console.error('Rate limit exceeded')
       }
 
-      log(`> ${provinces[index]}: ${count}`)
+      log(`> ${location}: ${count}`)
 
       results.push({
-        city: provinces[index],
+        city: location,
         count: count
       })
 
@@ -61,12 +66,12 @@ function pull (callback) {
 function getGithubUserCount (location, callback) {
   const cached = getFromCache(location)
 
-  if (cached) {
+  if (cached && cache.count !== undefined) {
     return callback(undefined, cached.count)
   }
 
   const request = {
-    url: encodeURI('https://api.github.com/search/users?q=location:' + location),
+    url: encodeURI(`https://${auth()}api.github.com/search/users?q=location:` + location),
     headers: {
       'user-agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'
     }
@@ -87,6 +92,13 @@ function getGithubUserCount (location, callback) {
       callback(new Error('rate limit exceeded'))
     }
 
+    cache.push({
+      city: location,
+      count: parsed.total_count
+    })
+
+    save()
+
     callback(undefined, parsed.total_count)
   })
 }
@@ -96,6 +108,7 @@ function getFromCache (location) {
     try {
       cache = require("./cache.json")
     } catch (err) {
+      cache = []
       return
     }
   }
@@ -109,8 +122,18 @@ function sortByCount (a, b) {
   return 0
 }
 
-function save(results) {
-  fs.writeFile('./cache.json', JSON.stringify(results, null, "\t"), function (err) {
-    console.log('Saved latest numbers to cache.')
+function save() {
+  fs.writeFile('./cache.json', JSON.stringify(cache, null, "\t"), function (err) {
+    // saved
   })
+}
+
+function auth () {
+  // Add your personal auth tokens, e.g
+  // username:token@
+  const tokens = [
+    ""
+  ]
+
+  return tokens[Math.floor(Math.random() * tokens.length)]
 }
