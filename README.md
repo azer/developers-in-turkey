@@ -6,7 +6,10 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 
 ## Results | Sonuçlar
 
-### Provinces | İller
+* [Provinces | İller](#provinces)
+* [Districts | İlçeler](#districts)
+
+#### Provinces
 
 | Province | Github Users |
 | ---- | ----------- |
@@ -87,7 +90,7 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Bayburt](https://github.com/search?q=location:Bayburt) | 1 |
 | [Kırşehir](https://github.com/search?q=location:Kırşehir) | 1 |
 
-### Districts | İlçeler
+#### Districts
 
 | District | Github Users |
 | ---- | ----------- |
