@@ -3,7 +3,7 @@ const loop = require("limited-parallel-loop")
 const get = require('simple-get')
 const fs = require("fs")
 const log = require("single-line-log").stderr
-const cache = require("./cache.json")
+let cache
 
 const PARALLEL_LIMIT = process.env.PARALLEL_LIMIT || 1 // Requests at a time
 
@@ -25,7 +25,7 @@ ${results.filter(row => row.count > 0).map(formatAsTableRow).join('\n')}
 }
 
 function formatAsTableRow (row) {
-  return `| ${row.city} | ${row.count} |`
+  return `| [${row.city}](https://gist.github.com/search?q=location:${row.city}) | ${row.count} |`
 }
 
 function pull (callback) {
@@ -35,13 +35,14 @@ function pull (callback) {
 
   loop(provinces.length, PARALLEL_LIMIT, each, err => {
     if (err) return callback(err)
+    save(results)
     callback(undefined, results.sort(sortByCount))
   })
 
   function each (done, index) {
     getGithubUserCount(provinces[index], (err, count) => {
       if (err) {
-        saveAndExit(results)
+        save(results)
         return console.error('Rate limit exceeded')
       }
 
@@ -58,7 +59,8 @@ function pull (callback) {
 }
 
 function getGithubUserCount (location, callback) {
-  const cached = cache.filter(row => row.city === location)[0]
+  const cached = getFromCache(location)
+
   if (cached) {
     return callback(undefined, cached.count)
   }
@@ -89,15 +91,26 @@ function getGithubUserCount (location, callback) {
   })
 }
 
+function getFromCache (location) {
+  if (!cache) {
+    try {
+      cache = require("./cache.json")
+    } catch (err) {
+      return
+    }
+  }
+
+  return cache.filter(row => row.city === location)[0]
+}
+
 function sortByCount (a, b) {
   if (a.count < b.count) return 1
   if (a.count > b.count) return -1
   return 0
 }
 
-function saveAndExit(results) {
-  fs.writeFile('./cache.json', JSON.stringify(results), function (err) {
+function save(results) {
+  fs.writeFile('./cache.json', JSON.stringify(results, null, "\t"), function (err) {
     console.log('Saved latest numbers to cache.')
-    process.exit()
   })
 }
