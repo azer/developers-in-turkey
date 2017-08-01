@@ -26,7 +26,7 @@ ${results.filter(row => row.count > 0).map(formatAsTableRow).join('\n')}
 }
 
 function formatAsTableRow (row) {
-  return `| [${row.city}](https://gist.github.com/search?q=location:${row.city}) | ${row.count} |`
+  return `| [${row.city}](https://github.com/search?q=location:${row.city}) | ${row.count} |`
 }
 
 function pull (cities, callback) {
