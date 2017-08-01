@@ -108,6 +108,7 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Safranbolu](https://github.com/search?q=location:Safranbolu) | 4 |
 | [Ereğli](https://github.com/search?q=location:Ereğli) | 4 |
 | [Didim](https://github.com/search?q=location:Didim) | 4 |
+| [Tuzla](https://github.com/search?q=location:Tuzla) | 4 |
 | [Derbent](https://github.com/search?q=location:Derbent) | 3 |
 | [Kuşadası](https://github.com/search?q=location:Kuşadası) | 3 |
 | [Nilüfer](https://github.com/search?q=location:Nilüfer) | 3 |
@@ -115,7 +116,6 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Araç](https://github.com/search?q=location:Araç) | 3 |
 | [Darıca](https://github.com/search?q=location:Darıca) | 3 |
 | [Salihli](https://github.com/search?q=location:Salihli) | 3 |
-| [Tuzla](https://github.com/search?q=location:Tuzla) | 3 |
 | [Zile](https://github.com/search?q=location:Zile) | 2 |
 | [Mudanya](https://github.com/search?q=location:Mudanya) | 2 |
 | [Meram](https://github.com/search?q=location:Meram) | 2 |
