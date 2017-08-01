@@ -94,7 +94,6 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 
 | District | Github Users |
 | ---- | ----------- |
-| [Tuzla](https://github.com/search?q=location:Tuzla) | 77 |
 | [Gebze](https://github.com/search?q=location:Gebze) | 38 |
 | [Bodrum](https://github.com/search?q=location:Bodrum) | 25 |
 | [Alanya](https://github.com/search?q=location:Alanya) | 24 |
@@ -116,6 +115,7 @@ Türkiye'deki illerin yazılımcı sayısına göre sıralaması.
 | [Araç](https://github.com/search?q=location:Araç) | 3 |
 | [Darıca](https://github.com/search?q=location:Darıca) | 3 |
 | [Salihli](https://github.com/search?q=location:Salihli) | 3 |
+| [Tuzla](https://github.com/search?q=location:Tuzla) | 3 |
 | [Zile](https://github.com/search?q=location:Zile) | 2 |
 | [Mudanya](https://github.com/search?q=location:Mudanya) | 2 |
 | [Meram](https://github.com/search?q=location:Meram) | 2 |
